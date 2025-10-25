@@ -1,2 +1,2 @@
 # Dummyt_repository
-Thiw  is a Dummy repositoryu
+ This  is a dummy repos -> Made mby Gautam  
